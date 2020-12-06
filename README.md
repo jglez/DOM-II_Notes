@@ -1,1 +1,1 @@
-# DOM II
+# Applied JavaScript DOM II Notes
